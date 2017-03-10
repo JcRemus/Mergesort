@@ -27,5 +27,5 @@ function merge (s,d){
   return result;
 }
 
-var a = [10, 9, 2, 6, 7];
+var a = [10, 9, 2, 5, 7];
 console.log(mergeSort(a));
